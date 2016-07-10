@@ -13,7 +13,8 @@ K Sorted Linked List+Min Heap
 
 (3)Documents:
 1.LogFilter Dev: Source code.
-2.LogFilter Test: Have jar, cd LogFilter Test, and run in command line. 
+2.LogTool.jar+ input file+origin file,  then run in command line. 
+For example,put LogTool.jar, input, and origin into a file called LogFilter Test, and then run command line below.
 
 (3)Steps to run.
 
