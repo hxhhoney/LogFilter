@@ -1,0 +1,8 @@
+INDEX VERSION 1.127+/Users/DuckCathy/LogFilter/.metadata/.plugins/org.eclipse.jdt.core
+2813161257.index
+1912783031.index
+3943365580.index
+1103121577.index
+2674749813.index
+1492766893.index
+1235143557.index
